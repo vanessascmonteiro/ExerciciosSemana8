@@ -1,0 +1,15 @@
+input {
+    border-radius: 4px;
+    margin: 3px 0;
+    border: 1px solid ;
+}
+
+button {
+    border-radius: 4px;
+    margin: 3px 0;
+    border: 1px solid gray;
+}
+
+button:hover{
+    cursor: pointer;
+}

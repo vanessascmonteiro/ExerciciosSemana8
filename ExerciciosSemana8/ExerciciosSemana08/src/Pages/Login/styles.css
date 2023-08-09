@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.login-body {
+    background-color: rgb(164, 208, 208);
+    padding: 15px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 120px 20px 0
+}
+
+h1{
+    margin: 10px 120px 5px 0;
+    font-size: 25px;
+}
